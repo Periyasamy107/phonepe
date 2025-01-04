@@ -1,16 +1,4 @@
 State,Year,Quarter,District,Registered_User,App_Opens,Region
-Andaman and Nicobar Islands,2023,1,North and Middle Andaman,12941,3103047,Southern Region
-Andaman and Nicobar Islands,2023,1,South Andaman,77052,5450795,Southern Region
-Andaman and Nicobar Islands,2023,1,Nicobars,2491,2458822,Southern Region
-Andaman and Nicobar Islands,2023,2,North and Middle Andaman,13600,3174229,Southern Region
-Andaman and Nicobar Islands,2023,2,South Andaman,80112,6884657,Southern Region
-Andaman and Nicobar Islands,2023,2,Nicobars,2617,4679790,Southern Region
-Andaman and Nicobar Islands,2023,3,North and Middle Andaman,14216,7130284,Southern Region
-Andaman and Nicobar Islands,2023,3,South Andaman,83305,5950899,Southern Region
-Andaman and Nicobar Islands,2023,3,Nicobars,2734,7463896,Southern Region
-Andaman and Nicobar Islands,2023,4,North and Middle Andaman,14813,1869462,Southern Region
-Andaman and Nicobar Islands,2023,4,South Andaman,86348,7452861,Southern Region
-Andaman and Nicobar Islands,2023,4,Nicobars,2817,523637,Southern Region
 Andhra Pradesh,2023,1,East Godavari,2965296,98931582,Southern Region
 Andhra Pradesh,2023,1,Srikakulam,1263204,48743038,Southern Region
 Andhra Pradesh,2023,1,Visakhapatnam,3732544,107253885,Southern Region
@@ -559,18 +547,6 @@ Chhattisgarh,2023,4,Bemetara,161344,12116213,Central Region
 Chhattisgarh,2023,4,Bastar,194070,17832127,Central Region
 Chhattisgarh,2023,4,Kondagaon,106147,8833388,Central Region
 Chhattisgarh,2023,4,Mahasamund,252583,17091714,Central Region
-Dadra and Nagar Haveli and Daman and Diu,2023,1,Diu,18234,246909,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,1,Daman,191432,522235,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,1,Dadra and Nagar Haveli,314951,3702140,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,2,Diu,18972,160624,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,2,Daman,199267,555514,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,2,Dadra and Nagar Haveli,328125,3369887,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,3,Diu,19752,177551,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,3,Daman,207437,357209,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,3,Dadra and Nagar Haveli,341846,3914753,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,4,Diu,20497,1294301,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,4,Daman,215319,13129081,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,4,Dadra and Nagar Haveli,354944,22155996,Western Region
 Delhi,2023,1,SouthDelhi,1167338,4668358,Northern Region
 Delhi,2023,1,CentralDelhi,1629248,6215071,Northern Region
 Delhi,2023,1,New Delhi,1622600,5117085,Northern Region
@@ -891,94 +867,6 @@ Himachal Pradesh,2023,4,Mandi,335088,17026983,Northern Region
 Himachal Pradesh,2023,4,Lahul and Spiti,7231,739710,Northern Region
 Himachal Pradesh,2023,4,Chamba,140790,6861147,Northern Region
 Himachal Pradesh,2023,4,Kinnaur,38701,1967624,Northern Region
-Jammu and Kashmir,2023,1,Muzaffarabad,622,1000008,Northern Region
-Jammu and Kashmir,2023,1,Doda,43097,11147268,Northern Region
-Jammu and Kashmir,2023,1,Samba,85114,4890989,Northern Region
-Jammu and Kashmir,2023,1,Mirpur,8495,2786174,Northern Region
-Jammu and Kashmir,2023,1,Srinagar,167765,1977179,Northern Region
-Jammu and Kashmir,2023,1,Baramulla,144514,6961193,Northern Region
-Jammu and Kashmir,2023,1,Jammu,485903,17150597,Northern Region
-Jammu and Kashmir,2023,1,Ganderbal,35514,2023040,Northern Region
-Jammu and Kashmir,2023,1,Udhampur,94792,11747882,Northern Region
-Jammu and Kashmir,2023,1,Bandipore,39106,2724864,Northern Region
-Jammu and Kashmir,2023,1,Reasi,44602,8133522,Northern Region
-Jammu and Kashmir,2023,1,Shopian,26874,1553342,Northern Region
-Jammu and Kashmir,2023,1,Poonch,46382,7586998,Northern Region
-Jammu and Kashmir,2023,1,Kathua,100962,12383545,Northern Region
-Jammu and Kashmir,2023,1,Kishtwar,19740,6574667,Northern Region
-Jammu and Kashmir,2023,1,Pulwama,74016,3500620,Northern Region
-Jammu and Kashmir,2023,1,Ramban,27571,4925109,Northern Region
-Jammu and Kashmir,2023,1,Rajouri,76256,10780591,Northern Region
-Jammu and Kashmir,2023,1,Kulgam,51100,1477596,Northern Region
-Jammu and Kashmir,2023,1,Budgam,107555,2252134,Northern Region
-Jammu and Kashmir,2023,1,Anantnag,97227,5022207,Northern Region
-Jammu and Kashmir,2023,1,Kupwara,95832,8229186,Northern Region
-Jammu and Kashmir,2023,2,Muzaffarabad,662,1797035,Northern Region
-Jammu and Kashmir,2023,2,Doda,45198,14803755,Northern Region
-Jammu and Kashmir,2023,2,Samba,88654,7451923,Northern Region
-Jammu and Kashmir,2023,2,Mirpur,8965,3302134,Northern Region
-Jammu and Kashmir,2023,2,Srinagar,174167,4390729,Northern Region
-Jammu and Kashmir,2023,2,Baramulla,150753,13182607,Northern Region
-Jammu and Kashmir,2023,2,Jammu,504935,21998444,Northern Region
-Jammu and Kashmir,2023,2,Ganderbal,37109,5938343,Northern Region
-Jammu and Kashmir,2023,2,Udhampur,98918,14432069,Northern Region
-Jammu and Kashmir,2023,2,Bandipore,40834,5945066,Northern Region
-Jammu and Kashmir,2023,2,Reasi,46697,12126106,Northern Region
-Jammu and Kashmir,2023,2,Shopian,28192,2327470,Northern Region
-Jammu and Kashmir,2023,2,Poonch,48610,14965536,Northern Region
-Jammu and Kashmir,2023,2,Kathua,105650,16685906,Northern Region
-Jammu and Kashmir,2023,2,Kishtwar,20624,8082588,Northern Region
-Jammu and Kashmir,2023,2,Pulwama,77212,6621358,Northern Region
-Jammu and Kashmir,2023,2,Ramban,28867,9065962,Northern Region
-Jammu and Kashmir,2023,2,Rajouri,79836,14149295,Northern Region
-Jammu and Kashmir,2023,2,Kulgam,53421,3660631,Northern Region
-Jammu and Kashmir,2023,2,Budgam,112096,5764744,Northern Region
-Jammu and Kashmir,2023,2,Anantnag,101512,9456616,Northern Region
-Jammu and Kashmir,2023,2,Kupwara,100220,13100824,Northern Region
-Jammu and Kashmir,2023,3,Muzaffarabad,689,2388963,Northern Region
-Jammu and Kashmir,2023,3,Doda,47141,18908548,Northern Region
-Jammu and Kashmir,2023,3,Samba,92315,8671389,Northern Region
-Jammu and Kashmir,2023,3,Mirpur,9360,11247923,Northern Region
-Jammu and Kashmir,2023,3,Srinagar,180872,2136209,Northern Region
-Jammu and Kashmir,2023,3,Baramulla,156673,23933296,Northern Region
-Jammu and Kashmir,2023,3,Jammu,524726,20471797,Northern Region
-Jammu and Kashmir,2023,3,Ganderbal,38539,11412437,Northern Region
-Jammu and Kashmir,2023,3,Udhampur,103054,19829111,Northern Region
-Jammu and Kashmir,2023,3,Bandipore,42437,4574495,Northern Region
-Jammu and Kashmir,2023,3,Reasi,48709,16244706,Northern Region
-Jammu and Kashmir,2023,3,Shopian,29274,6868446,Northern Region
-Jammu and Kashmir,2023,3,Poonch,50716,16670040,Northern Region
-Jammu and Kashmir,2023,3,Kathua,110005,28520026,Northern Region
-Jammu and Kashmir,2023,3,Kishtwar,21550,6707170,Northern Region
-Jammu and Kashmir,2023,3,Pulwama,80258,8748278,Northern Region
-Jammu and Kashmir,2023,3,Ramban,30080,11185754,Northern Region
-Jammu and Kashmir,2023,3,Rajouri,83335,15685000,Northern Region
-Jammu and Kashmir,2023,3,Kulgam,55512,7432705,Northern Region
-Jammu and Kashmir,2023,3,Budgam,116523,8284840,Northern Region
-Jammu and Kashmir,2023,3,Anantnag,105459,20036656,Northern Region
-Jammu and Kashmir,2023,3,Kupwara,104220,13247040,Northern Region
-Jammu and Kashmir,2023,4,Muzaffarabad,727,134776,Northern Region
-Jammu and Kashmir,2023,4,Doda,49155,6594941,Northern Region
-Jammu and Kashmir,2023,4,Samba,95819,9139176,Northern Region
-Jammu and Kashmir,2023,4,Mirpur,9741,1068794,Northern Region
-Jammu and Kashmir,2023,4,Srinagar,187378,13562789,Northern Region
-Jammu and Kashmir,2023,4,Baramulla,162749,15028233,Northern Region
-Jammu and Kashmir,2023,4,Jammu,542942,37944698,Northern Region
-Jammu and Kashmir,2023,4,Ganderbal,40098,4083127,Northern Region
-Jammu and Kashmir,2023,4,Udhampur,106838,8913483,Northern Region
-Jammu and Kashmir,2023,4,Bandipore,44134,3278743,Northern Region
-Jammu and Kashmir,2023,4,Reasi,50544,5843750,Northern Region
-Jammu and Kashmir,2023,4,Shopian,30546,4911785,Northern Region
-Jammu and Kashmir,2023,4,Poonch,52687,5141027,Northern Region
-Jammu and Kashmir,2023,4,Kathua,114338,11304316,Northern Region
-Jammu and Kashmir,2023,4,Kishtwar,22442,2493713,Northern Region
-Jammu and Kashmir,2023,4,Pulwama,83442,7311732,Northern Region
-Jammu and Kashmir,2023,4,Ramban,31241,3929381,Northern Region
-Jammu and Kashmir,2023,4,Rajouri,86618,7493563,Northern Region
-Jammu and Kashmir,2023,4,Kulgam,57794,6883177,Northern Region
-Jammu and Kashmir,2023,4,Budgam,121095,10016156,Northern Region
-Jammu and Kashmir,2023,4,Anantnag,109642,11750992,Northern Region
-Jammu and Kashmir,2023,4,Kupwara,108196,9474510,Northern Region
 Jharkhand,2023,1,Ramgarh,350515,15239505,Eastern Region
 Jharkhand,2023,1,Ranchi,1361772,41066213,Eastern Region
 Jharkhand,2023,1,East Singhbhum,886341,22125227,Eastern Region

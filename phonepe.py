@@ -11,7 +11,7 @@ from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
-conn = mysql.connector.connect(host='localhost',user='root',password='Samy@1007',database='phonepe')
+conn = mysql.connector.connect(host='localhost',user='root',password='123456',database='phonepe')
 
 cursor = conn.cursor()
 
@@ -25,7 +25,7 @@ SELECT = option_menu(
 
 if SELECT == 'Home':
     col1, col2 = st.columns(2)
-    # col1.image('D:\Desktop\Projects\phonepe\phonepe_image.png', width=30)
+    # col1.image('E:\Desktop\Projects\PhonePe Data Visualization\phonepe\PhonePe Data Visualization\phonepe_image.png', width=30)
     with col1:
         st.video('https://www.youtube.com/watch?v=OfXbp7hPno0')
         st.download_button('Download the app', 'https://www.phonepe.com/app-download/')
@@ -58,7 +58,7 @@ if SELECT == 'Barchart':
             st.bar_chart(data=df, x = 'district', y='transaction_amount')
 
 
-        json1 = 'D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json'
+        json1 = 'E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json'
         mapp = folium.Map(location=[23.47,77.94], tiles='CartoDB positron', name='Light map',
                         zoom_start=5, attr = 'my data attribution')
         choice = ['transaction_amount']
@@ -74,9 +74,9 @@ if SELECT == 'Barchart':
             line_opacity = 10,
             legend_name = choice_selected
         ).add_to(mapp)
-        # folium.features.json('D:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
+        # folium.features.json('E:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
         #                     popup = folium.features.GeoJsonPopup(fields=['NAME_1'])).add_to(mapp)
-        folium.GeoJson('D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
+        folium.GeoJson('E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
         folium_static(mapp, width=700, height = 650)
 
 
@@ -92,7 +92,7 @@ if SELECT == 'Barchart':
             st.subheader('Top 10 transaction based on state wise')
             st.bar_chart(data=df, x = 'state', y='transaction_amount')
 
-        json1 = 'D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json'
+        json1 = 'E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json'
         mapp = folium.Map(location=[23.47,77.94], tiles='CartoDB positron', name='Light map',
                         zoom_start=5, attr = 'my data attribution')
         choice = ['transaction_amount']
@@ -108,9 +108,9 @@ if SELECT == 'Barchart':
             line_opacity = 10,
             legend_name = choice_selected
         ).add_to(mapp)
-        # folium.features.json('D:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
+        # folium.features.json('E:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
         #                     popup = folium.features.GeoJsonPopup(fields=['NAME_1'])).add_to(mapp)
-        folium.GeoJson('D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
+        folium.GeoJson('E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
         folium_static(mapp, width=700, height = 650)
 
 
@@ -131,7 +131,7 @@ if SELECT == 'Barchart':
             st.pyplot(plt)
 
         df = df['registered_user'].astype('int64')
-        json1 = 'D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json'
+        json1 = 'E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json'
         mapp = folium.Map(location=[23.47,77.94], tiles='CartoDB positron', name='Light map',
                         zoom_start=5, attr = 'my data attribution')
         choice = ['registered_user']
@@ -147,9 +147,9 @@ if SELECT == 'Barchart':
             line_opacity = 10,
             legend_name = choice_selected
         ).add_to(mapp)
-        # folium.features.json('D:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
+        # folium.features.json('E:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
         #                     popup = folium.features.GeoJsonPopup(fields=['NAME_1'])).add_to(mapp)
-        folium.GeoJson('D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
+        folium.GeoJson('E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
         folium_static(mapp, width=700, height = 650)
 
 
@@ -170,7 +170,7 @@ if SELECT == 'Barchart':
             st.pyplot(plt)
 
         df = df['registered_user'].astype('int64')
-        json1 = 'D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json'
+        json1 = 'E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json'
         mapp = folium.Map(location=[23.47,77.94], tiles='CartoDB positron', name='Light map',
                         zoom_start=5, attr = 'my data attribution')
         choice = ['registered_user']
@@ -186,9 +186,9 @@ if SELECT == 'Barchart':
             line_opacity = 10,
             legend_name = choice_selected
         ).add_to(mapp)
-        # folium.features.json('D:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
+        # folium.features.json('E:\Desktop\Demo Projects\Datas\Miscellaneous\india_state_geo.json',
         #                     popup = folium.features.GeoJsonPopup(fields=['NAME_1'])).add_to(mapp)
-        folium.GeoJson('D:\Desktop\Projects\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
+        folium.GeoJson('E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous\india_state_geo.json').add_to(mapp)
         folium_static(mapp, width=700, height = 650)
 
 

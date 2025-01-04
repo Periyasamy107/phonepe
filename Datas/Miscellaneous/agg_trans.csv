@@ -1,19 +1,4 @@
 State,Year,Quarter,Transaction_Type,Transaction_Count,Transaction_Amount,Region
-Andaman and Nicobar Islands,2020,2,Insurance,6,1360.0,Southern Region
-Andaman and Nicobar Islands,2020,3,Insurance,41,15380.0,Southern Region
-Andaman and Nicobar Islands,2020,4,Insurance,124,157975.0,Southern Region
-Andaman and Nicobar Islands,2021,1,Insurance,225,244266.0,Southern Region
-Andaman and Nicobar Islands,2021,2,Insurance,137,181504.0,Southern Region
-Andaman and Nicobar Islands,2021,3,Insurance,230,305235.0,Southern Region
-Andaman and Nicobar Islands,2021,4,Insurance,757,1056380.0,Southern Region
-Andaman and Nicobar Islands,2022,1,Insurance,768,1131287.0,Southern Region
-Andaman and Nicobar Islands,2022,2,Insurance,501,779740.0,Southern Region
-Andaman and Nicobar Islands,2022,3,Insurance,643,902466.0,Southern Region
-Andaman and Nicobar Islands,2022,4,Insurance,901,1441210.0,Southern Region
-Andaman and Nicobar Islands,2023,1,Insurance,1004,1439198.0,Southern Region
-Andaman and Nicobar Islands,2023,2,Insurance,768,1233395.0,Southern Region
-Andaman and Nicobar Islands,2023,3,Insurance,795,1251145.0,Southern Region
-Andaman and Nicobar Islands,2023,4,Insurance,1145,1757821.0,Southern Region
 Andhra Pradesh,2020,2,Insurance,22104,3982391.0,Southern Region
 Andhra Pradesh,2020,3,Insurance,49812,12426481.0,Southern Region
 Andhra Pradesh,2020,4,Insurance,21464,12985632.0,Southern Region
@@ -104,21 +89,6 @@ Chhattisgarh,2023,1,Insurance,10460,16577191.0,Central Region
 Chhattisgarh,2023,2,Insurance,10514,16389610.000000002,Central Region
 Chhattisgarh,2023,3,Insurance,11927,17838382.0,Central Region
 Chhattisgarh,2023,4,Insurance,17300,29704673.0,Central Region
-Dadra and Nagar Haveli and Daman and Diu,2020,2,Insurance,651,101029.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2020,3,Insurance,257,65504.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2020,4,Insurance,232,149513.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2021,1,Insurance,467,285691.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2021,2,Insurance,368,275638.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2021,3,Insurance,360,273596.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2021,4,Insurance,421,425384.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2022,1,Insurance,493,720741.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2022,2,Insurance,438,686857.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2022,3,Insurance,707,983776.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2022,4,Insurance,871,1272628.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,1,Insurance,799,1215168.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,2,Insurance,694,1058753.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,3,Insurance,969,1333103.0,Western Region
-Dadra and Nagar Haveli and Daman and Diu,2023,4,Insurance,1207,1973867.0,Western Region
 Delhi,2020,2,Insurance,11716,1897480.0,Northern Region
 Delhi,2020,3,Insurance,7588,1927285.0,Northern Region
 Delhi,2020,4,Insurance,9725,8045442.0,Northern Region
@@ -194,21 +164,6 @@ Himachal Pradesh,2023,1,Insurance,3909,7826133.0,Northern Region
 Himachal Pradesh,2023,2,Insurance,4197,8499425.0,Northern Region
 Himachal Pradesh,2023,3,Insurance,3935,7869767.0,Northern Region
 Himachal Pradesh,2023,4,Insurance,5211,11898823.999999998,Northern Region
-Jammu and Kashmir,2020,2,Insurance,206,48484.0,Northern Region
-Jammu and Kashmir,2020,3,Insurance,441,133339.0,Northern Region
-Jammu and Kashmir,2020,4,Insurance,647,734861.0,Northern Region
-Jammu and Kashmir,2021,1,Insurance,1105,1546288.0,Northern Region
-Jammu and Kashmir,2021,2,Insurance,1197,1832089.0,Northern Region
-Jammu and Kashmir,2021,3,Insurance,1452,2139133.0,Northern Region
-Jammu and Kashmir,2021,4,Insurance,3113,5223317.0,Northern Region
-Jammu and Kashmir,2022,1,Insurance,3584,7244267.0,Northern Region
-Jammu and Kashmir,2022,2,Insurance,4071,7729792.0,Northern Region
-Jammu and Kashmir,2022,3,Insurance,4794,8281826.0,Northern Region
-Jammu and Kashmir,2022,4,Insurance,5031,10111183.0,Northern Region
-Jammu and Kashmir,2023,1,Insurance,4555,10275877.0,Northern Region
-Jammu and Kashmir,2023,2,Insurance,5262,10974839.0,Northern Region
-Jammu and Kashmir,2023,3,Insurance,5453,10975874.000000002,Northern Region
-Jammu and Kashmir,2023,4,Insurance,6264,13932309.0,Northern Region
 Jharkhand,2020,2,Insurance,2063,405031.0,Eastern Region
 Jharkhand,2020,3,Insurance,5368,1349934.0,Eastern Region
 Jharkhand,2020,4,Insurance,3659,2857024.0,Eastern Region

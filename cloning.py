@@ -9,7 +9,7 @@ import mysql.connector
 # ## Cloning from repository
 
 repo_url = 'https://github.com/PhonePe/pulse'
-clone_path = 'D:\Desktop\Projects\phonepe\Datas'
+clone_path = 'E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas'
 
 if not os.path.exists(clone_path):
     os.makedirs(clone_path)
@@ -17,7 +17,7 @@ if not os.path.exists(clone_path):
 repo_path = os.path.join(clone_path, os.path.basename(repo_url).removesuffix('.git').title())
 print(repo_path)
 
-Repo.clone_from(repo_url, repo_path)
+# Repo.clone_from(repo_url, repo_path)
 
 directory = os.path.join(repo_path, 'data')
 print(directory)
@@ -579,7 +579,7 @@ for df_name in df_list:
 # ### Creating CSV files out of refined dataframes
 
 def save_dfs_as_csv(df_list):
-    subfolder = 'D:\Desktop\Projects\phonepe\Datas\Miscellaneous'
+    subfolder = 'E:\Desktop\Projects\PhonePe Data Visualization\phonepe\Datas\Miscellaneous'
     if not os.path.exists(subfolder):
         os.makedirs(subfolder)
         
@@ -601,7 +601,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    password = 'Samy@1007'
+    password = '123456'
 )
 
 cursor = conn.cursor()
